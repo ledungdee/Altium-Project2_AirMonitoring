@@ -1,0 +1,110 @@
+Added Component: Designator=H3(XH2.54M-10)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001286"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 10P XH2.54-10P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H4(XH2.54M-10)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001286"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 10P XH2.54-10P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(Header9)
+Add component (AddParameter): Name = "Value"; Value = "Connector 9"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(Header9)
+Add component (AddParameter): Name = "Value"; Value = "Connector 9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=BUZZER Pin=H3-2
+Added Pin To Net: NetName=SCL Pin=H3-3
+Added Pin To Net: NetName=SDA Pin=H3-6
+Added Pin To Net: NetName=DDHT22 Pin=H3-8
+Added Pin To Net: NetName=DMQ135 Pin=H3-9
+Added Pin To Net: NetName=RL2 Pin=H4-7
+Added Pin To Net: NetName=RL1 Pin=H4-8
+Added Pin To Net: NetName=5V Pin=JP1-1
+Added Pin To Net: NetName=TX1 Pin=JP1-3
+Added Pin To Net: NetName=RX1 Pin=JP1-4
+Added Pin To Net: NetName=NC Pin=JP1-6
+Added Pin To Net: NetName=TX2 Pin=JP2-1
+Added Pin To Net: NetName=RX2 Pin=JP2-2
+Added Pin To Net: NetName=NetH3_4 Pin=H3-4
+Added Pin To Net: NetName=NetH3_4 Pin=U1-35
+Added Net: Name=NetH3_4
+Added Pin To Net: NetName=NetH3_5 Pin=H3-5
+Added Pin To Net: NetName=NetH3_5 Pin=U1-34
+Added Net: Name=NetH3_5
+Added Pin To Net: NetName=NetH3_7 Pin=H3-7
+Added Pin To Net: NetName=NetH3_7 Pin=U1-32
+Added Net: Name=NetH3_7
+Added Pin To Net: NetName=NetH3_10 Pin=H3-10
+Added Pin To Net: NetName=NetH3_10 Pin=U1-29
+Added Net: Name=NetH3_10
+Added Pin To Net: NetName=NetH4_1 Pin=H4-1
+Added Pin To Net: NetName=NetH4_1 Pin=U1-10
+Added Net: Name=NetH4_1
+Added Pin To Net: NetName=NetH4_2 Pin=H4-2
+Added Pin To Net: NetName=NetH4_2 Pin=U1-9
+Added Net: Name=NetH4_2
+Added Pin To Net: NetName=NetH4_3 Pin=H4-3
+Added Pin To Net: NetName=NetH4_3 Pin=U1-8
+Added Net: Name=NetH4_3
+Added Pin To Net: NetName=NetH4_4 Pin=H4-4
+Added Pin To Net: NetName=NetH4_4 Pin=U1-7
+Added Net: Name=NetH4_4
+Added Pin To Net: NetName=NetH4_5 Pin=H4-5
+Added Pin To Net: NetName=NetH4_5 Pin=U1-6
+Added Net: Name=NetH4_5
+Added Pin To Net: NetName=NetH4_6 Pin=H4-6
+Added Pin To Net: NetName=NetH4_6 Pin=U1-5
+Added Net: Name=NetH4_6
+Added Pin To Net: NetName=NetH4_9 Pin=H4-9
+Added Pin To Net: NetName=NetH4_9 Pin=U1-2
+Added Net: Name=NetH4_9
+Added Pin To Net: NetName=NetH4_10 Pin=H4-10
+Added Pin To Net: NetName=NetH4_10 Pin=U1-1
+Added Net: Name=NetH4_10
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=U1-18
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_5 Pin=JP1-5
+Added Pin To Net: NetName=NetJP1_5 Pin=U1-15
+Added Net: Name=NetJP1_5
+Added Pin To Net: NetName=NetJP1_7 Pin=JP1-7
+Added Pin To Net: NetName=NetJP1_7 Pin=U1-13
+Added Net: Name=NetJP1_7
+Added Pin To Net: NetName=NetJP1_8 Pin=JP1-8
+Added Pin To Net: NetName=NetJP1_8 Pin=U1-12
+Added Net: Name=NetJP1_8
+Added Pin To Net: NetName=NetJP1_9 Pin=JP1-9
+Added Pin To Net: NetName=NetJP1_9 Pin=U1-11
+Added Net: Name=NetJP1_9
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=U1-26
+Added Net: Name=NetJP2_3
+Added Pin To Net: NetName=NetJP2_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_4 Pin=U1-25
+Added Net: Name=NetJP2_4
+Added Pin To Net: NetName=NetJP2_5 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_5 Pin=U1-24
+Added Net: Name=NetJP2_5
+Added Pin To Net: NetName=NetJP2_6 Pin=JP2-6
+Added Pin To Net: NetName=NetJP2_6 Pin=U1-23
+Added Net: Name=NetJP2_6
+Added Pin To Net: NetName=NetJP2_7 Pin=JP2-7
+Added Pin To Net: NetName=NetJP2_7 Pin=U1-22
+Added Net: Name=NetJP2_7
+Added Pin To Net: NetName=NetJP2_8 Pin=JP2-8
+Added Pin To Net: NetName=NetJP2_8 Pin=U1-21
+Added Net: Name=NetJP2_8
+Added Pin To Net: NetName=NetJP2_9 Pin=JP2-9
+Added Pin To Net: NetName=NetJP2_9 Pin=U1-20
+Added Net: Name=NetJP2_9
+Added Member To Class: ClassName=SCH Member=Component H3 Header 10P 2.54 Duc Thang
+Added Member To Class: ClassName=SCH Member=Component H4 Header 10P 2.54 Duc Thang
+Added Member To Class: ClassName=SCH Member=Component JP1 JP9
+Added Member To Class: ClassName=SCH Member=Component JP2 JP9
+Added Member To Class: ClassName=SCH Member=Component R1 100
+Added Room: Name=SCH

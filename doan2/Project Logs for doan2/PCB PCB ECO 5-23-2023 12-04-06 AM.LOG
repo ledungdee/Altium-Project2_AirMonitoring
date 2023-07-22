@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=H3-1
+Removed Pin From Net: NetName=BUZZER Pin=H3-2
+Removed Pin From Net: NetName=SCL Pin=H3-3
+Removed Pin From Net: NetName=SDA Pin=H3-6
+Removed Pin From Net: NetName=DDHT22 Pin=H3-8
+Removed Pin From Net: NetName=DMQ135 Pin=H3-9
+Removed Pin From Net: NetName=RL2 Pin=H4-7
+Removed Pin From Net: NetName=RL1 Pin=H4-8
+Removed Member From Class: ClassName=SCH Member=H3
+Removed Member From Class: ClassName=SCH Member=H4
+Added Component: Designator=JP3(Header10)
+Add component (AddParameter): Name = "Value"; Value = "Connector 10"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(Header10)
+Add component (AddParameter): Name = "Value"; Value = "Connector 10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RL2 Pin=JP3-7
+Added Pin To Net: NetName=RL1 Pin=JP3-8
+Added Pin To Net: NetName=GND Pin=JP4-1
+Added Pin To Net: NetName=BUZZER Pin=JP4-2
+Added Pin To Net: NetName=SCL Pin=JP4-3
+Added Pin To Net: NetName=SDA Pin=JP4-6
+Added Pin To Net: NetName=DDHT22 Pin=JP4-8
+Added Pin To Net: NetName=DMQ135 Pin=JP4-9
+Added Pin To Net: NetName=NetJP3_1 Pin=JP3-1
+Added Pin To Net: NetName=NetJP3_1 Pin=U1-10
+Added Net: Name=NetJP3_1
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=U1-9
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP3_3 Pin=JP3-3
+Added Pin To Net: NetName=NetJP3_3 Pin=U1-8
+Added Net: Name=NetJP3_3
+Added Pin To Net: NetName=NetJP3_4 Pin=JP3-4
+Added Pin To Net: NetName=NetJP3_4 Pin=U1-7
+Added Net: Name=NetJP3_4
+Added Pin To Net: NetName=NetJP3_5 Pin=JP3-5
+Added Pin To Net: NetName=NetJP3_5 Pin=U1-6
+Added Net: Name=NetJP3_5
+Added Pin To Net: NetName=NetJP3_6 Pin=JP3-6
+Added Pin To Net: NetName=NetJP3_6 Pin=U1-5
+Added Net: Name=NetJP3_6
+Added Pin To Net: NetName=NetJP3_9 Pin=JP3-9
+Added Pin To Net: NetName=NetJP3_9 Pin=U1-2
+Added Net: Name=NetJP3_9
+Added Pin To Net: NetName=NetJP3_10 Pin=JP3-10
+Added Pin To Net: NetName=NetJP3_10 Pin=U1-1
+Added Net: Name=NetJP3_10
+Added Pin To Net: NetName=NetJP4_4 Pin=JP4-4
+Added Pin To Net: NetName=NetJP4_4 Pin=U1-35
+Added Net: Name=NetJP4_4
+Added Pin To Net: NetName=NetJP4_5 Pin=JP4-5
+Added Pin To Net: NetName=NetJP4_5 Pin=U1-34
+Added Net: Name=NetJP4_5
+Added Pin To Net: NetName=NetJP4_7 Pin=JP4-7
+Added Pin To Net: NetName=NetJP4_7 Pin=U1-32
+Added Net: Name=NetJP4_7
+Added Pin To Net: NetName=NetJP4_10 Pin=JP4-10
+Added Pin To Net: NetName=NetJP4_10 Pin=U1-29
+Added Net: Name=NetJP4_10
+Added Member To Class: ClassName=SCH Member=Component JP3 JP10
+Added Member To Class: ClassName=SCH Member=Component JP4 JP10
